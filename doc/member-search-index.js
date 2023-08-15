@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"pt.switchon.simulator.services","c":"JsonService","l":"initialize()"},{"p":"pt.switchon.simulator.services","c":"JsonService","l":"JsonService()","u":"%3Cinit%3E()"},{"p":"pt.switchon.simulator.services","c":"JsonService","l":"mobileValidation(String, String)","u":"mobileValidation(java.lang.String,java.lang.String)"}];updateSearchResults();

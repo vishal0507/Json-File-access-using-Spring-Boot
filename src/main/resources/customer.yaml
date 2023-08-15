@@ -1,0 +1,10 @@
+CreateCard:
+   Failure:
+     - {"Response":{"Status":"Failure","Msg":"The Message failed due to its present inside list of mobile numbers"}}
+   Response:
+     - {"MobileNo": "9999999999","Response":{"Status": "success","Msg": "Wallet created successfully"}}
+    
+GetWallet:
+     - { "Response":{"Status":"Success","Msg":""},  "FirstName":"Abhishek", "LastName":"Sharma","DateOfBirth":"30-08-1980",  "Email":"abhishek@gmail.com","MobileNo":"9999999999",  "PINCode":"401064",  "CardNumber":"8000000000000001", "ExpiryDate":"26-06-2021", "CurrentBalance": 0,"RiskCategory": "Medium", "KYCTypeName": "Easy","KYCType": "2","State": "Maharashtra","City": "Mumbai","IsTopUpAllowed": 1,"IsWalletToBankAllowed": 0,"IsP2PAllowed": 0,"IsP2MAllowed": 0,"IsTransactionsAllowed": 1 }
+
+FailureNumbers: [82341,11111,22222,55555,67890,12345,23456,77777,88888,99999] 
